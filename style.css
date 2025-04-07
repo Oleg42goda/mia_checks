@@ -30,7 +30,7 @@ margin: 0 auto;
 .block{
 
 	color: #fff;
-	width: 900px;
+	max-width: 750px;
 	font-size: 20px;
 	background: linear-gradient(135deg,
 				red,
@@ -47,8 +47,10 @@ margin: 0 auto;
 
 
 .text__wrapper{
-	max-width: 700px;
+	max-width: 600px;
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 50px;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+	text-align: center;
 }
