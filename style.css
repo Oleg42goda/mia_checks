@@ -1,0 +1,10 @@
+.avatar__wrapper{
+	width: 300px;
+	height: 300px;
+	border-radius: 100%;
+	overflow: hidden;
+}
+
+.avatar__image{
+  margin-left: -80px;
+}
